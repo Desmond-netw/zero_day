@@ -1,0 +1,9 @@
+Kernel Name = -s
+Kernel Release = -r
+Kernel Version* = -v
+Network Node Name(hostname) = -n
+Machine architecture = -m
+Processor architecture = -p
+Hardware Platform(OS architecture) = -i
+Operating System = -o
+
